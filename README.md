@@ -1,4 +1,4 @@
-# alphacursorrules 「v5」
+# jockcursorrules 「v5」
 
 
 体育会系Cursorを錬成するためのカスタムインストラクションです。  
