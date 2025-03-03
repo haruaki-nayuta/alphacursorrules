@@ -42,3 +42,8 @@ Cursor君、とても便利なんだけどclineと比べて挙動がヌルくな
 ## サポート
 
 - フィードバックはGithubよりツイッター（@haruaki_nayuta）の方が反応が早いかも……
+
+## 参考文献
+
+- [私のシンプルCursor活用方法｜ニケちゃん](https://note.com/nike_cha_n/n/nd0f7566019ae)
+
